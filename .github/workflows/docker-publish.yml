@@ -38,7 +38,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: bu-ist/de-bulletin
+  IMAGE_NAME: bu-ili/de-bulletin-sensor
 
 jobs:
   build-and-push:
